@@ -44,3 +44,4 @@ A clean, responsive web application for tracking personal finances with visualiz
 3. Add export functionality (CSV/PDF)
 4. Include monthly budget tracking
 5. Add user authentication for multi-user support
+6. Mobile App Development
